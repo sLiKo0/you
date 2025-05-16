@@ -1,0 +1,54 @@
+#ocen{
+  height: 100px;
+  margin-left: 80px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+#naz{
+  font-size: 70px;
+  margin-left: 100px;
+}
+
+.cart{
+  display: flex; 
+  margin-top: 100px;
+}
+
+#cart1{
+  margin-left: 150px;
+  width: 500px;
+}
+
+.nazvanie{
+  display: flex;
+}
+
+hr{
+  border: none;
+  height: 10px; 
+  background-color: #ffb700; 
+  margin-top: 0px;
+}
+
+.opis{
+  margin-left: 100px;
+  font-size: 30px;
+}
+
+.st113{
+  padding-top: 0px;
+  background-color: #32f052;
+  border-radius: 150px;
+  margin-left: 80px;
+  margin-right: 100px;
+  margin-top: 40px;
+  margin-bottom: 22px;
+  font-size: 40px;
+  font-family: 'Sofia Sans', sans-serif;
+}
+
+#eden{
+  background-color: black;
+  margin-left: 500px;
+}
